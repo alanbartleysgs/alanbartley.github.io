@@ -1,0 +1,29 @@
+.hero {  
+    background-image: url('https://www.muchbetteradventures.com/magazine/content/images/size/w2000/2024/04/mount-everest-at-sunset.jpg');  
+    background-size: cover;  
+    height: 100vh;  
+    display: flex;  
+    justify-content: center;  
+    align-items: center;  
+    color: #ffffff; /* white text color */  
+  }  
+    
+  .hero h1 {  
+    font-size: 48px;  
+    font-weight: bold;  
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* add a shadow to the text for better readability */  
+  }  
+    
+  #visit-sgs-button {  
+    background-color: #4CAF50; /* green background color */  
+    color: #ffffff; /* white text color */  
+    border: none;  
+    padding: 10px 20px;  
+    font-size: 16px;  
+    cursor: pointer; /* change cursor to a pointing hand */  
+  }  
+    
+  #visit-sgs-button:hover {  
+    background-color: #3e8e41; /* darker green background color on hover */  
+  }
+  
